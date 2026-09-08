@@ -1,3 +1,7 @@
+body, html {
+    font-family: "Oswald", sans-serif;
+}
+
 body {
     background-color: #134074;
 }
@@ -77,6 +81,7 @@ h1 {
 #tools-card {
     margin: 10px;    
 }
+
 
 #us-flag {
     width: 40%;
