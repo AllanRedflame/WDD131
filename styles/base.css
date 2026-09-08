@@ -44,7 +44,7 @@ h1 {
 
 main{
     display: grid;
-    grid-tempate-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     
 }
 
