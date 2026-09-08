@@ -126,3 +126,10 @@ h3 {
     text-align: center;
     
 }
+
+footer {
+    background-color: #eef4ed;
+    text-align: center;
+    font-size: 110%;
+    padding: 10px;
+}
