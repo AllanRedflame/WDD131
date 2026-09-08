@@ -1,6 +1,5 @@
 body, html {
     font-family: "Oswald", sans-serif;
-    word-break: normal;
 }
 
 body {
@@ -67,7 +66,7 @@ h1 {
     grid-column: 1 / 3;
     margin: 10px;
     display: grid;
-    grid-template-column: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     grid-row: 1fr 1fr 1fr 1fr; 
 }
 
@@ -99,6 +98,10 @@ h1 {
 
 #us-p {
     grid-row: 4;
+    text-align: center;
+    word-break: normal;
+    margin-right: 25%;
+    margin-top: auto;
 }
 
 #tools-card h2 {
@@ -128,6 +131,7 @@ h1 {
     text-align: center;
     padding: 10px;
     font-size: 120%;
+    word-break: normal;
     
 }
 
