@@ -1,3 +1,10 @@
-header {
+body {
     background-color: #134074;
+}
+
+header {
+    background-color: #eef4ed;
+}
+#course-title {
+    text-align: center;
 }
