@@ -1,0 +1,83 @@
+@media (min-width: 720px) {
+    header {
+    background-color: #8da9c4;
+}
+
+body {
+    background-color: #134074;
+    font-family: "Oswald", sans-serif;
+}
+
+header {
+    font-size: 240%;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    border: 8px solid #eef4ed;
+    margin-left: 15px; 
+    margin-right: 15px; 
+}
+
+main { 
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 35px;
+}
+
+header nav {
+    text-align: right;
+}
+
+header a {
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    border-radius: 3px;
+    transition: .2s;
+}
+
+header a:hover {
+    text-decoration: none;
+    background-color: #eef4ed;
+    transition: .2s;
+}
+
+#figure-div {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+
+figure {
+    background-color: #8da9c4;
+    border: 8px solid #eef4ed;
+    text-align: center;
+
+}
+
+figcaption {
+    font-size: 125%;
+    padding: 20px;
+}
+
+figure img {
+    width: 75%;
+    margin: auto;
+    margin-top: 25px;
+}
+
+h1 {
+    font-size: 300%;
+    text-align: center;
+    background-color: #eef4ed;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+footer {
+    background-color: #eef4ed;
+    text-align: center;
+    font-size: 110%;
+    padding: 10px;
+}    
+}
