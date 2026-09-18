@@ -126,12 +126,10 @@ main {
 
 #about-me-p {
     grid-column: 1 / 3;
-    word-break: break-all;
     grid-row: 2;
     text-align: center;
     padding: 10px;
     font-size: 120%;
-    word-break: normal;
     
 }
 
