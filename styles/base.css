@@ -112,9 +112,6 @@ main {
     padding: 10px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-}
-
-#tools-card h2 {
     background-color: #8da9c4;
     margin-top: auto;
 }
