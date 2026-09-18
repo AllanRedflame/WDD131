@@ -5,11 +5,11 @@
 
 body {
     background-color: #134074;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Archivo Black", sans-serif;
 }
 
 header {
-    font-size: 90%;
+    font-size: 55%;
     padding: 10px;
     display: flex;
     justify-content: space-between;
