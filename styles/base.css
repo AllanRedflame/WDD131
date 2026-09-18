@@ -37,7 +37,6 @@ nav a {
 
 nav a:hover {
     transition: 0.3s;
-    color: #535353;
     background-color: #134074;
     border-radius: 15px;
     color: white;
