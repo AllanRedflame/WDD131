@@ -24,8 +24,9 @@ main {
     margin-bottom: 35px;
 }
 
-header nav {
-    text-align: right;
+nav {
+    display: flex;
+    justify-content: center;
 }
 
 header a {
